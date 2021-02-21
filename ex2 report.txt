@@ -1,0 +1,10 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 2
+First Student Details.: 316462621 - Shachar Oron
+Second Student Details: 302314653 - Alon Greenfield
+Delivery Date.........: 27 - May - 2020
+Delivered In Delay....: No
+Delay Reason..........: 
+Visual Studio Version.: 2019
+Comments..............: This is a re-submission
+=======================End Exercise Checking Report=========================
